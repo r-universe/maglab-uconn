@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "LexFindR"]
 	path = LexFindR
 	url = https://github.com/maglab-uconn/lexfindr
-	shallow = true
-	registered = true
